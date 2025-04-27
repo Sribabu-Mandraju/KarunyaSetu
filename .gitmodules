@@ -4,3 +4,9 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Sribabu-Mandraju/aidChain_frontend.git
+[submodule "grok_for_chatbot"]
+	path = grok_for_chatbot
+	url = https://github.com/jack0sparrow1/disaster_assistant.git
+[submodule "grok_for_disaster_summary"]
+	path = grok_for_disaster_summary
+	url = https://github.com/jack0sparrow1/Disaster_summary.git
