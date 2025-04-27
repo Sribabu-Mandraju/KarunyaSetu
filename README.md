@@ -93,9 +93,9 @@ KarunyaSetu solves the **inefficiencies, corruption, and delays in traditional d
 ## 🧪 How to Run the Project
 
 ### Requirements:
-- Node.js (v16 or higher)
-- MetaMask or compatible Web3 wallet
-- Testnet ETH (via [Coinbase_developer_platform](https://portal.cdp.coinbase.com/products/faucet)
+- Node.js (v22 or higher)
+- Coinbase Wallet or compatible Web3 wallet
+- Testnet  ETH (base sepolia) (via [Coinbase_developer_platform](https://portal.cdp.coinbase.com/products/faucet)
 
 ### Local Setup:
 ## frontend
