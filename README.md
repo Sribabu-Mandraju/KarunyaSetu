@@ -35,7 +35,8 @@ KarunyaSetu solves the **inefficiencies, corruption, and delays in traditional d
 - **Key challenges addressed**: Funds were delayed due to too many manual steps, and fake claims wasted money.Victims couldn’t access help easily, especially without ID or if they didn’t speak English. 
 - **Breakthroughs**: We used ZKadhaar to check location and identity without exposing details.We added DAO voting, built chatbots, and made the whole process automatic with smart contracts.
 - The following diagram illustrates the overall flow of the KarunyaSetu platform and its key components:
-![Project Flow](https://raw.githubusercontent.com/Sribabu-Mandraju/aidChain_frontend/d3fa2957c4aecfecb536228c9a54da1164029fdf/src/assets/KarunyaSetuFlow.png)
+![image](https://github.com/user-attachments/assets/aae60e54-2305-455f-a193-d1af32e4d3d2)
+
 
 ---
 
