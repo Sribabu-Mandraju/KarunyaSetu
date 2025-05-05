@@ -68,6 +68,8 @@ KarunyaSetu solves the **inefficiencies, corruption, and delays in traditional d
 - ✅ **Real-Time Transparency**: All transactions auditable on-chain for full accountability.
 - ✅ **Multilingual ChatBot**: Interacts in multiple Indian languages to assist donors and victims with their queries.
 - ✅ **Disaster Summary Bot**: Gives DAO members realtime updates on disasters before voting.
+- ✅ **Easy OnBoarding of Non-Crypto Users**: Users with no knowledge of crypto can also use our application with ease by using simple guides provided in our website.
+
 
 ![Web App](https://github.com/user-attachments/assets/cc717ce9-ea7d-4ed2-beee-2f8f1dc6e6b4)  
 **Web App**: The main interface for creating campaigns, donating, and tracking relief efforts.
